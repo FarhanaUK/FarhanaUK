@@ -10,7 +10,7 @@
 - 👯 I’m looking to collaborate on my first real-life project!
 - 🤔 I’m looking for help with being a better developer
 - 💬 Ask me about anything
-- 📫 How to reach me: Connect with me on LinkedIn
+- 📫 How to reach me: Connect with me on LinkedIn: www.linkedin.com/in/farhana-aktar-5295167a
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm learning to play the piano by watching YouTube!
 
