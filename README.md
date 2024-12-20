@@ -5,10 +5,8 @@
 
 
 
-- 🔭 I’m currently working on React!
-- 🌱 I’m currently learning full-stack web development
-- 👯 I’m looking to collaborate on my first real-life project!
-- 🤔 I’m looking for help with being a better developer
+- 🌱 Graduate of BloomTech's Full Stack Web Development Program
+- 🤔 I’m looking to network with out developers.
 - 💬 Ask me about anything
 - 📫 How to reach me: Connect with me on LinkedIn: www.linkedin.com/in/farhana-aktar-5295167a
 - 😄 Pronouns: She/Her
